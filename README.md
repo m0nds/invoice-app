@@ -1,6 +1,6 @@
 # 📄 Invoice Management System
 
-A modern, responsive invoice management application built with React, Firebase, and real-time WebSocket integration. This application provides a complete solution for creating, managing, and tracking invoices with a beautiful, mobile-first design.
+A modern, responsive invoice management application built with React, Firebase, and real-time WebSocket integration. This application provides a complete solution for creating, managing, and tracking invoices with a beautiful, mobile-first design. You can find the deployed version at https://invoice-app-three-gamma.vercel.app/
 
 ## 🚀 Features
 
